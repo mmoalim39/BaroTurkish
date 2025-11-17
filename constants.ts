@@ -10,6 +10,21 @@ export const CURRICULUM: Curriculum = {
     lessons: [
       { id: 'b1', title: 'Alifbeetada (Alfabe)', description: 'Baro xarfaha luuqadda Turkish-ka iyo dhawaaqooda.', content: 'Content for Turkish Alphabet...' },
       { id: 'b2', title: 'Salaan & Isbarasho', description: 'Sida loo salaamo, la isku barto, loona macsalaameeyo.', content: 'Content for Greetings...' },
+  Salaanta (Greeting ) [
+         Haye 	Merhaba	Salaan guud.
+         Subax Wanaagsan	Günaydın	
+         Maalin Wanaagsan	İyi günler
+         Fiid Wanaagsan	İyi akşamlar
+         Habeen Wanaagsan	İyi geceler
+         Nabadgelyo	Hoşça kal	Macsalaamo 
+         Ku soo dhawoow	Hoş geldiniz
+         Sidee tahay?	Nasılsın?	
+         Sidee tihiin?	Nasılsınız?
+         Waan fiicanahay, mahadsanid.	İyiyim, teşekkürler.
+         Adigu?	Sen nasılsın?	
+         Waa sidee noloshu?	Hayat nasıl?
+         Waa hagaag.	İyi.
+
       { id: 'b3', title: 'Tirakoob (1-1000)', description: 'Baro tirinta iyo isticmaalka tirooyinka.', content: 'Content for Numbers...' },
       { id: 'b4', title: 'Midabada (Renkler)', description: 'Baro magacyada midabada aasaasiga ah.', content: 'Content for Colors...' },
       { id: 'b5', title: 'Qoyska (Aile)', description: 'Erayada la xiriira qoyska iyo xubnahooda.', content: 'Content for Family...' },
